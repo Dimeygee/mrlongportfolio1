@@ -17,7 +17,7 @@ export default function Home() {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="" />
         <meta property="og:image" content="../public/favicon.ico" />
-        <meta property="og:description" content="A Digital Sisterhood for Ambitious females to connect, educate and empower females" />
+        <meta property="og:description" content="Digital Product Designer Crafting Magic" />
         <meta property="og:site_name" content="" />
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="" />
