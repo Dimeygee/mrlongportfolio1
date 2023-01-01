@@ -18,7 +18,7 @@ export const tl = gsap.timeline()
 export const projects = [
     { 
         id:1,
-        title: "Crystpal",
+        title: "CryptPal",
         image: crystpal,
         content: "A crypto app that lets you tag along with latest market trends, news and prices.",
         mobileImg: cmobile,
