@@ -31,7 +31,7 @@ const DotRing = () => {
                 scale: cursorType ? "1" : "2",
             }
         })
-    },[x, y])
+    },[x, y, cursorType])
 
     const style = {
         border: "2px solid #3EE2C4",

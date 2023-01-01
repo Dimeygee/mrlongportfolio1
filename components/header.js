@@ -31,7 +31,7 @@ export const Header = () => {
             <div className="pt-[79px] md:w-[50%]">
                 <article>
                     <p className="p1 font-bold tracking-[-1.44195px] font-syne text-[#1A202C] opacity-0 translate-y-4 text-[46px] md:text-[72.999px]  text-center md:text-left md:leading-[88px] leading-[53.2px] dark:text-[#A0AEC0]">
-                        Digital Product <br />Designer <br />Crafting <br />"<span className="text-mrlongblue dark:text-white">Magic</span>"
+                        Digital Product <br />Designer <br />Crafting <br />&quot;<span className="text-mrlongblue dark:text-white">Magic</span>&quot;
                     </p>
                     <p className='p2 mt-[18px] mb-[34px] tracking-[-0.36px] text-[#2D3748] opacity-0 translate-y-4 text-md font-outfit text-center md:text-left font-normal leading-[25px] dark:text-[#CBD5E0]'>Do you have a billion-dollar idea and are looking for a product <br />designer to help bring it to life? If so, you would definitely need to <br />speak with me.</p>
                     <div className="btn flex gap-[24px] md:flex-row flex-col md:w-[100%] opacity-0 translate-y-4 w-[250px] mx-auto">
