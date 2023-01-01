@@ -12,7 +12,7 @@ export default function ProjectOverlay ({index})  {
     useEffect(() => {
 
         gsap.to(`.overlay1_${index}`, {  
-            y: "-100%",
+            y: "-110%",
             scrollTrigger: {
                 trigger: `.overlay1_${index}`,
                 toggleActions: "restart pause none none",
@@ -22,7 +22,7 @@ export default function ProjectOverlay ({index})  {
         })
 
         gsap.to(`.overlay2_${index}`, {
-            y: "100%",
+            y: "110%",
             scrollTrigger: {
                 trigger: `.overlay1_${index}`,
                 toggleActions: "restart pause none none",
